@@ -5,7 +5,7 @@ sections:
     title: 'Hola, vengo a ayudarte a regularizar tus construcciones'
     subtitle: >-
       Para ello acércate a Av. Pajaritos 3080 oficina 301. Edificio Centenario.
-      Maipú. Arquitectura Urbana.
+      Maipú. Arquitectura Urbana. Arquitecto Julio Ramírez Juacida.
     actions:
       - label: Contact Me
         url: /contact
