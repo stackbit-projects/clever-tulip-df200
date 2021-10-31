@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: 'Hola, vengo a ayudarte a regularizar tus construcciones'
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      Para ello acércate a Av. Pajaritos 3080 oficina 301. Edificio Centenario.
+      Maipú.will handle your website design and production, social media
+      accounts and digital advertisements for you, at an affordable price.
     actions:
       - label: Contact Me
         url: /contact
