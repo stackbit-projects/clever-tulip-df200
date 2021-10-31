@@ -7,7 +7,7 @@ sections:
       Para ello acércate a Av. Pajaritos 3080 oficina 301. Edificio Centenario.
       Maipú. Arquitectura Urbana. Arquitecto Julio Ramírez Juacida.
     actions:
-      - label: Contáctame al celular
+      - label: Contáctame al celular +569 62491247
         url: /contact
         style: primary
     image: images/hero.png
